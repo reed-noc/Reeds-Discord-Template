@@ -1,0 +1,22 @@
+{
+  "Token": null,
+  "Prefix": null,
+  "Owner Id": null,
+  "Mod Log Channel ID": 0,
+  "Moderator Role ID": 0,
+  "Ban Command": true,
+  "Temp Ban Command": true,
+  "Kick Command": true,
+  "Warn Command": true,
+  "Mute Command": true,
+  "Welcome Channel ID": 0,
+  "Ping Command": true,
+  "Days Command": true,
+  "Messages Command": true,
+  "Invites Command": true,
+  "Youtube Updates Channel ID": 0,
+  "Twitch Updates Channel ID": 0,
+  "Twitter Updates Channel ID": 0,
+  "Meme Command": true,
+  "Pet Command": true
+}

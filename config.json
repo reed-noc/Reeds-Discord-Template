@@ -2,6 +2,7 @@
   "Token": null,
   "Prefix": null,
   "Owner Id": null,
+  "MongoURI": Get from mongodb.com,
   "Mod Log Channel ID": 0,
   "Moderator Role ID": 0,
   "Ban Command": true,
@@ -19,5 +20,4 @@
   "Twitter Updates Channel ID": 0,
   "Meme Command": true,
   "Pet Command": true
-  "MongoDB URI":
 }
